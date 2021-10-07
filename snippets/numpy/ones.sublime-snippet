@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:x} = np.ones(${2:shape})
+]]></content>
+    <tabTrigger>ones</tabTrigger>
+    <scope>source.python</scope>
+    <description>np.ones</description>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+${1:model}.fit(
+    x=${2:x_train},
+    y=${3:y_train},
+    batch_size=${4:32},
+    epochs=${5:10},
+    validation_data=${6:None}
+)
+]]></content>
+    <tabTrigger>fit</tabTrigger>
+    <scope>source.python</scope>
+    <description>model.fit</description>
+</snippet>

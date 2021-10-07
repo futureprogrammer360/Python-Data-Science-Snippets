@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+${1:neigh} = KNeighborsClassifier(n_neighbors=${2:5})
+${1:neigh}.fit(${3:X_train}, ${4:y_train})
+]]></content>
+    <tabTrigger>knn</tabTrigger>
+    <scope>source.python</scope>
+    <description>sklearn.neighbors.KNeighborsClassifier</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:x} = np.logspace(${2:start, stop})
+]]></content>
+    <tabTrigger>logspace</tabTrigger>
+    <scope>source.python</scope>
+    <description>np.logspace</description>
+</snippet>

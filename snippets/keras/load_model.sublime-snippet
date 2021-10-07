@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:keras.models.}load_model(${2:"model.h5"})
+]]></content>
+    <tabTrigger>load_model</tabTrigger>
+    <scope>source.python</scope>
+    <description>keras.models.load_model</description>
+</snippet>

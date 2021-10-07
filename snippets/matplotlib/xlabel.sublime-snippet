@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.xlabel($0)
+]]></content>
+    <tabTrigger>xlabel</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.xlabel</description>
+</snippet>

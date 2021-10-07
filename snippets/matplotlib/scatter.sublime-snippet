@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.scatter(${1:x}, ${2:y})
+]]></content>
+    <tabTrigger>scatter</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.scatter</description>
+</snippet>

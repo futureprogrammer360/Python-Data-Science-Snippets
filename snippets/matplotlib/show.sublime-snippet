@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.show()
+]]></content>
+    <tabTrigger>show</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.show</description>
+</snippet>

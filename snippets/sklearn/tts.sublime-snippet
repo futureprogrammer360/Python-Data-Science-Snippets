@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:X_train}, ${2:X_test}, ${3:y_train}, ${4:y_test} = train_test_split(${5:X}, ${6:y}, test_size=${7:None}, random_state=${8:None})
+]]></content>
+    <tabTrigger>tts</tabTrigger>
+    <scope>source.python</scope>
+    <description>sklearn.model_selection.train_test_split</description>
+</snippet>

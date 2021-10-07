@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+import tensorflow as tf
+]]></content>
+    <tabTrigger>itf</tabTrigger>
+    <scope>source.python</scope>
+    <description>import tensorflow as tf</description>
+</snippet>

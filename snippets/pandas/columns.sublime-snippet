@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:df}.columns
+]]></content>
+    <tabTrigger>columns</tabTrigger>
+    <scope>source.python</scope>
+    <description>df.columns</description>
+</snippet>

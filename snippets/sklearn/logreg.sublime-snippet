@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+${1:clf} = LogisticRegression()
+${1:clf}.fit(${2:X_train}, ${3:y_train})
+]]></content>
+    <tabTrigger>logreg</tabTrigger>
+    <scope>source.python</scope>
+    <description>sklearn.linear_model.LogisticRegression</description>
+</snippet>

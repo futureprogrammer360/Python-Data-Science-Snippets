@@ -1,0 +1,9 @@
+[
+    {
+        "caption": "Python Data Science Snippets: Open Readme",
+        "command": "open_file",
+        "args": {
+          "file": "${packages}/Python Data Science Snippets/README.md"
+        }
+    }
+]

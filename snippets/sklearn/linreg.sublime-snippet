@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+${1:reg} = LinearRegression()
+${1:reg}.fit(${2:X_train}, ${3:y_train})
+]]></content>
+    <tabTrigger>linreg</tabTrigger>
+    <scope>source.python</scope>
+    <description>sklearn.linear_model.LinearRegression</description>
+</snippet>

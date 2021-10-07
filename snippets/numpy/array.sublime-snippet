@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:x} = np.array(${2:data})
+]]></content>
+    <tabTrigger>array</tabTrigger>
+    <scope>source.python</scope>
+    <description>np.array</description>
+</snippet>

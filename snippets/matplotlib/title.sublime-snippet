@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.title($0)
+]]></content>
+    <tabTrigger>title</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.title</description>
+</snippet>

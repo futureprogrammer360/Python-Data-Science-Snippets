@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+${1:model}.compile(
+    optimizer=${2:"adam"},
+    loss=${3:"categorical_crossentropy"},
+    metrics=[${4:"accuracy"}]
+)
+]]></content>
+    <tabTrigger>compile</tabTrigger>
+    <scope>source.python</scope>
+    <description>model.compile</description>
+</snippet>

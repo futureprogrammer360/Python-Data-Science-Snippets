@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:x} = np.zeros(${2:shape})
+]]></content>
+    <tabTrigger>zeros</tabTrigger>
+    <scope>source.python</scope>
+    <description>np.zeros</description>
+</snippet>

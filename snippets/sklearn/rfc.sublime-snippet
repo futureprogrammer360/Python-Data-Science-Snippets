@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+${1:clf} = RandomForestClassifier(n_estimators=${2:100}, max_depth=${3:None})
+${1:clf}.fit(${4:X_train}, ${5:y_train})
+]]></content>
+    <tabTrigger>rfc</tabTrigger>
+    <scope>source.python</scope>
+    <description>sklearn.ensemble.RandomForestClassifier</description>
+</snippet>

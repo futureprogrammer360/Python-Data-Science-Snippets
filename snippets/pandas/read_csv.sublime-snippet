@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:df} = pd.read_csv(${2:"data.csv"})
+]]></content>
+    <tabTrigger>read_csv</tabTrigger>
+    <scope>source.python</scope>
+    <description>pd.read_csv</description>
+</snippet>

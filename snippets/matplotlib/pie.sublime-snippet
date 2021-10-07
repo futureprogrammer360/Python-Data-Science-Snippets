@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.pie(${1:x})
+]]></content>
+    <tabTrigger>pie</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.pie</description>
+</snippet>

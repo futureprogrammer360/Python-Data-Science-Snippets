@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:keras.layers.}${2:Dense}($0)
+]]></content>
+    <tabTrigger>layer</tabTrigger>
+    <scope>source.python</scope>
+    <description>keras.layers.layer</description>
+</snippet>

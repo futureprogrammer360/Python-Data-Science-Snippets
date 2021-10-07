@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:x} = np.arange(${2:start, stop, step})
+]]></content>
+    <tabTrigger>arange</tabTrigger>
+    <scope>source.python</scope>
+    <description>np.arange</description>
+</snippet>

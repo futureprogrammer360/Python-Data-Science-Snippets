@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:df} = pd.DataFrame(${2:data})
+]]></content>
+    <tabTrigger>df</tabTrigger>
+    <scope>source.python</scope>
+    <description>pd.DataFrame</description>
+</snippet>

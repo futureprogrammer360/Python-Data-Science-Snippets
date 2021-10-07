@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.ylabel($0)
+]]></content>
+    <tabTrigger>ylabel</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.ylabel</description>
+</snippet>

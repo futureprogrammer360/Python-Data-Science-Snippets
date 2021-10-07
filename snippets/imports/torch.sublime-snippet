@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+import torch
+]]></content>
+    <tabTrigger>itorch</tabTrigger>
+    <scope>source.python</scope>
+    <description>import torch</description>
+</snippet>

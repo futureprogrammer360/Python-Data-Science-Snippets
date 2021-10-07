@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:ser} = pd.Series(${2:data})
+]]></content>
+    <tabTrigger>ser</tabTrigger>
+    <scope>source.python</scope>
+    <description>pd.Series</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+${1:model} = keras.Sequential(${2:[
+    $0
+]})
+]]></content>
+    <tabTrigger>sequential</tabTrigger>
+    <scope>source.python</scope>
+    <description>keras.Sequential</description>
+</snippet>

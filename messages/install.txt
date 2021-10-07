@@ -1,0 +1,9 @@
+Hello fellow data scientist!
+
+Thank you for installing the Python Data Science Snippets package. This is a collection of useful snippets for data science and machine learning in Python.
+
+To see the snippets available, check out the README.md file via the `Python Data Science Snippets: Open Readme` command in command palette.
+
+Enjoy!
+
+GitHub homepage: https://github.com/futureprogrammer360/Python%20Data%20Science%20Snippets
