@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:dataloader} = ${2:torch.utils.data.}DataLoader(${3:dataset}, batch_size=${4:1})
+]]></content>
+    <tabTrigger>dataloader</tabTrigger>
+    <scope>source.python</scope>
+    <description>torch.utils.data.DataLoader</description>
+</snippet>

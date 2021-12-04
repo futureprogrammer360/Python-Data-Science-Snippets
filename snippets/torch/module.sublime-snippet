@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+class ${1:Model}(${2:nn.}Module):
+    def __init__(self$3):
+        super(${1:Model}, self).__init__()
+        self.${4:layer} = ${5:${2:nn.}Linear}($0)
+
+    def forward(self, x):
+        x = self.${4:layer}(x)
+        return x
+]]></content>
+    <tabTrigger>module</tabTrigger>
+    <scope>source.python</scope>
+    <description>torch.nn.Module</description>
+</snippet>

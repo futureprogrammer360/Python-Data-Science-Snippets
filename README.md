@@ -14,21 +14,24 @@ The easiest way to install Python Data Science Snippets is through [Package Cont
 * [Matplotlib](#matplotlib)
 * [Scikit-learn](#scikit-learn)
 * [Keras](#keras)
+* [PyTorch](#pytorch)
 
 ### Imports
 
 Import snippets start with `i` followed by the package's import alias.
 
-| Trigger    | Description                       |
-|------------|-----------------------------------|
-| `ikeras`   | `from tensorflow import keras`    |
-| `inp`      | `import numpy as np`              |
-| `ipd`      | `import pandas as pd`             |
-| `iplt`     | `import matplotlib.pyplot as plt` |
-| `isklearn` | `from sklearn.$1 import $2`       |
-| `isns`     | `import seaborn as sns`           |
-| `itf`      | `import tensorflow as tf`         |
-| `itorch`   | `import torch`                    |
+| Trigger    | Description                               |
+|------------|-------------------------------------------|
+| `ikeras`   | `from tensorflow import keras`            |
+| `inp`      | `import numpy as np`                      |
+| `ipd`      | `import pandas as pd`                     |
+| `iplt`     | `import matplotlib.pyplot as plt`         |
+| `isklearn` | `from sklearn.$1 import $2`               |
+| `isns`     | `import seaborn as sns`                   |
+| `itf`      | `import tensorflow as tf`                 |
+| `itorch`   | `import torch`                            |
+| `inn`      | `from torch import nn`                    |
+| `idl`      | `from torch.utils.data import DataLoader` |
 
 ### NumPy
 
@@ -88,5 +91,13 @@ Import snippets start with `i` followed by the package's import alias.
 | `load_model` | `keras.models.load_model` |
 | `save`       | `model.save`              |
 | `sequential` | `keras.Sequential`        |
+
+### PyTorch
+
+| Trigger      | Description                   |
+|--------------|-------------------------------|
+| `dataloader` | `torch.utils.data.DataLoader` |
+| `device`     | `torch.device (cuda/cpu)`     |
+| `module`     | `torch.nn.Module`             |
 
 The snippet files are in the `snippets` folder of [this GitHub repository](https://github.com/futureprogrammer360/Python-Data-Science-Snippets).

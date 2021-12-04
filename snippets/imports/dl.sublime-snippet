@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+from torch.utils.data import DataLoader
+]]></content>
+    <tabTrigger>idl</tabTrigger>
+    <scope>source.python</scope>
+    <description>from torch.utils.data import DataLoader</description>
+</snippet>

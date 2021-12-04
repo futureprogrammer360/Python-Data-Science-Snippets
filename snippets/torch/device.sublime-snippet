@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+]]></content>
+    <tabTrigger>device</tabTrigger>
+    <scope>source.python</scope>
+    <description>torch device (cuda/cpu)</description>
+</snippet>
