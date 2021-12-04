@@ -1,0 +1,5 @@
+v1.0.1
+
+New snippets are added for PyTorch.
+To see the snippets, run the `Python Data Science Snippets: Open Readme` command in the command palette.
+Enjoy!
