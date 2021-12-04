@@ -1,5 +1,10 @@
 # 📊 Python Data Science Snippets
 
+[![Downloads](https://img.shields.io/packagecontrol/dt/Python%20Data%20Science%20Snippets)](https://packagecontrol.io/packages/Python%20Data%20Science%20Snippets)
+[![Tag](https://img.shields.io/github/v/tag/futureprogrammer360/Python-Data-Science-Snippets?sort=semver)](https://github.com/futureprogrammer360/Python-Data-Science-Snippets/tags)
+[![Repo size](https://img.shields.io/github/repo-size/futureprogrammer360/Python-Data-Science-Snippets)](https://github.com/futureprogrammer360/Python-Data-Science-Snippets)
+[![License](https://img.shields.io/github/license/futureprogrammer360/Python-Data-Science-Snippets?style=flat-square)](https://github.com/futureprogrammer360/Python-Data-Science-Snippets/blob/master/LICENSE)
+
 [Python Data Science Snippets](https://github.com/futureprogrammer360/Python-Data-Science-Snippets) is a collection of [Sublime Text](https://www.sublimetext.com/) snippets for data science and machine learning in Python.
 
 ## 💻 Installation
@@ -100,4 +105,4 @@ Import snippets start with `i` followed by the package's import alias.
 | `device`     | `torch.device (cuda/cpu)`     |
 | `module`     | `torch.nn.Module`             |
 
-The snippet files are in the `snippets` folder of [this GitHub repository](https://github.com/futureprogrammer360/Python-Data-Science-Snippets).
+The snippet files are in the [`snippets`](https://github.com/futureprogrammer360/Python-Data-Science-Snippets/tree/master/snippets) folder of [this GitHub repository](https://github.com/futureprogrammer360/Python-Data-Science-Snippets).
