@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:df}.to_csv(${2:"data.csv"})
+]]></content>
+    <tabTrigger>to_csv</tabTrigger>
+    <scope>source.python</scope>
+    <description>df.to_csv</description>
+</snippet>

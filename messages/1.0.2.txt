@@ -1,0 +1,5 @@
+v1.0.2
+
+New snippets are added for Keras and Pandas.
+To see the snippets, run the `Python Data Science Snippets: Open Readme` command in the command palette.
+Enjoy!

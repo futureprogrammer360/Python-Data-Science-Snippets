@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:model}.predict(${2:x})
+]]></content>
+    <tabTrigger>predict</tabTrigger>
+    <scope>source.python</scope>
+    <description>model.predict</description>
+</snippet>

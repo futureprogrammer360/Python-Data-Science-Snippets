@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+${1:model}.evaluate(
+    x=${2:x_test},
+    y=${3:y_test},
+    batch_size=${4:32},
+    epochs=${5:10},
+    validation_data=${6:None}
+)
+]]></content>
+    <tabTrigger>evaluate</tabTrigger>
+    <scope>source.python</scope>
+    <description>model.evaluate</description>
+</snippet>

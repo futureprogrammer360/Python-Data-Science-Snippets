@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+pd.to_datetime(${1:${2:df}[${3:"date"}]})
+]]></content>
+    <tabTrigger>to_datetime</tabTrigger>
+    <scope>source.python</scope>
+    <description>pd.to_datetime</description>
+</snippet>

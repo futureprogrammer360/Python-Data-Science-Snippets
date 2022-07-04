@@ -51,15 +51,23 @@ Import snippets start with `i` followed by the package's import alias.
 
 ### Pandas
 
-| Trigger    | Description    |
-|------------|----------------|
-| `columns`  | `df.columns`   |
-| `describe` | `df.describe`  |
-| `df`       | `pd.DataFrame` |
-| `head`     | `df.head`      |
-| `read_csv` | `pd.read_csv`  |
-| `ser`      | `pd.Series`    |
-| `tail`     | `df.tail`      |
+| Trigger       | Description      |
+|---------------|----------------  |
+| `apply`       | `df.apply`       |
+| `columns`     | `df.columns`     |
+| `describe`    | `df.describe`    |
+| `df`          | `pd.DataFrame`   |
+| `dropna`      | `df.dropna`      |
+| `fillna`      | `df.fillna`      |
+| `groupby`     | `df.groupby`     |
+| `head`        | `df.head`        |
+| `read_csv`    | `pd.read_csv`    |
+| `rename`      | `df.rename`      |
+| `sample`      | `df.sample`      |
+| `ser`         | `pd.Series`      |
+| `tail`        | `df.tail`        |
+| `to_csv`      | `df.to_csv`      |
+| `to_datetime` | `pd.to_datetime` |
 
 ### Matplotlib
 
@@ -91,9 +99,11 @@ Import snippets start with `i` followed by the package's import alias.
 | Trigger      | Description               |
 |--------------|---------------------------|
 | `compile`    | `model.compile`           |
+| `evaluate`   | `model.evaluate`          |
 | `fit`        | `model.fit`               |
 | `layer`      | `keras.layers.layer`      |
 | `load_model` | `keras.models.load_model` |
+| `predict`    | `model.predict`           |
 | `save`       | `model.save`              |
 | `sequential` | `keras.Sequential`        |
 

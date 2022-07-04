@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:df}.rename($0)
+]]></content>
+    <tabTrigger>rename</tabTrigger>
+    <scope>source.python</scope>
+    <description>df.rename</description>
+</snippet>

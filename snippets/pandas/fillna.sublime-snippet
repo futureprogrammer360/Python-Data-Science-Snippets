@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:df}.fillna($0)
+]]></content>
+    <tabTrigger>fillna</tabTrigger>
+    <scope>source.python</scope>
+    <description>df.fillna</description>
+</snippet>
