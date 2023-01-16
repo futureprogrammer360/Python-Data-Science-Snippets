@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.annotate(${1:text}, ${2:xy})
+]]></content>
+    <tabTrigger>annotate</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.annotate</description>
+</snippet>

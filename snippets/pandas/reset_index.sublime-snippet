@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:df}.reset_index(drop=${2:False}, inplace=${3:False})
+]]></content>
+    <tabTrigger>reset_index</tabTrigger>
+    <scope>source.python</scope>
+    <description>df.reset_index</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.hist(${1:x}, bins=${2:10})
+]]></content>
+    <tabTrigger>hist</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.hist</description>
+</snippet>

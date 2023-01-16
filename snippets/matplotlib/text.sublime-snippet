@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.text(${1:x}, ${2:y}, ${3:text})
+]]></content>
+    <tabTrigger>text</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.text</description>
+</snippet>

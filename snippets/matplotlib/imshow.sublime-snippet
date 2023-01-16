@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.imshow(${1:X})
+]]></content>
+    <tabTrigger>imshow</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.imshow</description>
+</snippet>

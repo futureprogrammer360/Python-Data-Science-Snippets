@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.savefig(${1:fname})
+]]></content>
+    <tabTrigger>savefig</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.savefig</description>
+</snippet>

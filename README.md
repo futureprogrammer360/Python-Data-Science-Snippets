@@ -23,7 +23,7 @@ The easiest way to install Python Data Science Snippets is through [Package Cont
 
 ### Imports
 
-Import snippets start with `i` followed by the package's import alias.
+Import snippets start with `i` followed by the package/module's import alias.
 
 | Trigger    | Description                               |
 |------------|-------------------------------------------|
@@ -63,6 +63,7 @@ Import snippets start with `i` followed by the package's import alias.
 | `head`        | `df.head`        |
 | `read_csv`    | `pd.read_csv`    |
 | `rename`      | `df.rename`      |
+| `reset_index` | `df.reset_index` |
 | `sample`      | `df.sample`      |
 | `ser`         | `pd.Series`      |
 | `tail`        | `df.tail`        |
@@ -71,18 +72,34 @@ Import snippets start with `i` followed by the package's import alias.
 
 ### Matplotlib
 
-| Trigger    | Description    |
-|------------|----------------|
-| `bar`      | `plt.bar`      |
-| `legend`   | `plt.legend`   |
-| `pie`      | `plt.pie`      |
-| `plot`     | `plt.plot`     |
-| `scatter`  | `plt.scatter`  |
-| `show`     | `plt.show`     |
-| `subplots` | `plt.subplots` |
-| `title`    | `plt.title`    |
-| `xlabel`   | `plt.xlabel`   |
-| `ylabel`   | `plt.ylabel`   |
+| Trigger        | Description        |
+|----------------|--------------------|
+| `annotate`     | `plt.annotate`     |
+| `bar_label`    | `plt.bar_label`    |
+| `bar`          | `plt.bar`          |
+| `barh`         | `plt.barh`         |
+| `fill_between` | `plt.fill_between` |
+| `hist`         | `plt.hist`         |
+| `imread`       | `plt.imread`       |
+| `imsave`       | `plt.imsave`       |
+| `imshow`       | `plt.imshow`       |
+| `legend`       | `plt.legend`       |
+| `pie`          | `plt.pie`          |
+| `plot`         | `plt.plot`         |
+| `savefig`      | `plt.savefig`      |
+| `scatter`      | `plt.scatter`      |
+| `show`         | `plt.show`         |
+| `stackplot`    | `plt.stackplot`    |
+| `subplot`      | `plt.subplot`      |
+| `subplots`     | `plt.subplots`     |
+| `suptitle`     | `plt.suptitle`     |
+| `text`         | `plt.text`         |
+| `tight_layout` | `plt.tight_layout` |
+| `title`        | `plt.title`        |
+| `xlabel`       | `plt.xlabel`       |
+| `xlim`         | `plt.xlim`         |
+| `ylabel`       | `plt.ylabel`       |
+| `ylim`         | `plt.ylim`         |
 
 ### Scikit-learn
 

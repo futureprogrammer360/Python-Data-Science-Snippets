@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.subplot(${1:${2:nrows}, ${3:ncols}, ${4:index}})
+]]></content>
+    <tabTrigger>subplot</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.subplot</description>
+</snippet>

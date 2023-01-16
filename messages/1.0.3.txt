@@ -1,0 +1,5 @@
+v1.0.3
+
+New snippets are added for Matplotlib and Pandas.
+To see the snippets, run the `Python Data Science Snippets: Open Readme` command in the command palette.
+Enjoy!

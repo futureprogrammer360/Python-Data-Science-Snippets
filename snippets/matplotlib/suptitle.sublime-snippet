@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.suptitle($0)
+]]></content>
+    <tabTrigger>suptitle</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.suptitle</description>
+</snippet>

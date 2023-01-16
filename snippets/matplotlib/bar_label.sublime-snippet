@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.bar_label(${1:container})
+]]></content>
+    <tabTrigger>bar_label</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.bar_label</description>
+</snippet>

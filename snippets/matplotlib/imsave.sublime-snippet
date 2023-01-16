@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.imsave(${1:fname}, ${2:arr})
+]]></content>
+    <tabTrigger>imsave</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.imsave</description>
+</snippet>

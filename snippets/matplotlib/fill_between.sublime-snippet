@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.fill_between(${1:x}, ${2:y1}, ${3:y2})
+]]></content>
+    <tabTrigger>fill_between</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.fill_between</description>
+</snippet>

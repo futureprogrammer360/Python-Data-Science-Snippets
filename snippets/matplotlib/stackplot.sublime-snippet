@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.stackplot(${1:x}, ${2:y})
+]]></content>
+    <tabTrigger>stackplot</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.stackplot</description>
+</snippet>

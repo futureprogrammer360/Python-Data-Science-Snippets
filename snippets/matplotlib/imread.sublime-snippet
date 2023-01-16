@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.imread(${1:fname})
+]]></content>
+    <tabTrigger>imread</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.imread</description>
+</snippet>

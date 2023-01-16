@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.tight_layout()
+]]></content>
+    <tabTrigger>tight_layout</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.tight_layout</description>
+</snippet>

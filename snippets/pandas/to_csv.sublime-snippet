@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-${1:df}.to_csv(${2:"data.csv"})
+${1:df}.to_csv(${2:"data.csv"}, index=${3:True})
 ]]></content>
     <tabTrigger>to_csv</tabTrigger>
     <scope>source.python</scope>

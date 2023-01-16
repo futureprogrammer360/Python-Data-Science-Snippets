@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+plt.barh(${1:y}, ${2:width})
+]]></content>
+    <tabTrigger>barh</tabTrigger>
+    <scope>source.python</scope>
+    <description>plt.barh</description>
+</snippet>
