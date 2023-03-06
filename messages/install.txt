@@ -6,4 +6,4 @@ To see the snippets available, check out the README.md file via the `Python Data
 
 Enjoy!
 
-GitHub homepage: https://github.com/futureprogrammer360/Python%20Data%20Science%20Snippets
+GitHub homepage: https://github.com/futureprogrammer360/Python-Data-Science-Snippets
